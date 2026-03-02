@@ -1,0 +1,4 @@
+pymongo[srv]
+certifi
+psycopg
+python-dotenv
