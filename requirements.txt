@@ -2,3 +2,5 @@ pymongo[srv]
 certifi
 psycopg
 python-dotenv
+requests
+pandas

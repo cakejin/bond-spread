@@ -1,4 +1,10 @@
 .venv
+venv/
 .log
 __pycache__/
 .env
+.vscode/
+.cache/
+
+bash.exe.stackdump
+.python-version
